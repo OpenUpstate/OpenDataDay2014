@@ -19,6 +19,10 @@ We need MOAR! Checkout the [Datasets](https://github.com/OpenUpstate/OpenDataDay
 page on the wiki. It'd be especially fabulous to have local/regional focused data sets, but any open
 data is welcome!
 
+## Sponsors
+
+<a href="http://cloudant.com/"><img src="https://cloudant.com/wp-content/themes/cloudant/images/cloudant_logo_2012_retina.png" alt="Cloudant - the Do More Data Layer" height="104" width="364"></a>
+
 ## License & Copyright
 
 All code will be licensed under the Apache License 2.0 or MIT.
