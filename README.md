@@ -5,7 +5,8 @@ OpenDataDay2014
 
 ## Event
 
-February 22nd at [OpenWorks](http://joinopenworks.com/) at 2 N Main St. Greenville, SC 29601
+February 22nd at [OpenWorks](http://joinopenworks.com/) at 2 N Main St. Greenville, SC 29601 (use W. Washington entrance and walk 
+downstairs)
 
 [Grab your free ticket!](http://openupstate.org/home/2014/2/13/16)
 
