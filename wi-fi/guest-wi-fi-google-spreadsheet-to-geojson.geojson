@@ -1,0 +1,76 @@
+{ "type": "FeatureCollection",
+  "features": [
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-82.3981478, 34.8505968]},
+        "properties": {
+           "notes": "Connect and then open a webpage and the Cisco screen will appear asking for a passphrase",
+           "owner" : "21 East",
+           "category" : "guest"
+         }
+    }, 
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-82.3980028, 34.8532742]},
+        "properties": {
+           "notes": "",
+           "owner" : "Jersey Mikes",
+           "category" : "guest"
+         }
+    }, 
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-82.4022339, 34.8462271]},
+        "properties": {
+           "notes": "",
+           "owner" : "Ocha",
+           "category" : "guest"
+         }
+    }, 
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-82.3985128, 34.8507212]},
+        "properties": {
+           "notes": "",
+           "owner" : "OpenWorks",
+           "category" : "guest"
+         }
+    }, 
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-82.4031756, 34.8461193]},
+        "properties": {
+           "notes": "",
+           "owner" : "Rick's Deli",
+           "category" : "guest"
+         }
+    }, 
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-82.3982392, 34.8520211]},
+        "properties": {
+           "notes": "",
+           "owner" : "The Green Room",
+           "category" : "guest"
+         }
+    }, 
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-82.3995862, 34.8516983]},
+        "properties": {
+           "notes": "",
+           "owner" : "Tupelo Honey",
+           "category" : "guest"
+         }
+    }, 
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-82.4051236, 34.8434911]},
+        "properties": {
+           "notes": "",
+           "owner" : "Warehouse Theatre",
+           "category" : "guest"
+         }
+    }, 
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-82.4002445, 34.8488832]},
+        "properties": {
+           "notes": "",
+           "owner" : "Westin Hotel, Downtown Greenville",
+           "category" : "guest"
+         }
+    } 
+  ]
+}
