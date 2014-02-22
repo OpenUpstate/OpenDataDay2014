@@ -49,10 +49,10 @@ header("Access-Control-Allow-Origin: *");
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [<?php print $row['latitude'];?>, <?php print $row['longitude'];?>]},
         "properties": {
-           "owner" : "<?php print json_encode($row['owner']);?>",
-           "ssid": "<?php print $row['ssid'];?>",
-           "passphrase": "<?php print $row['passphrase'];?>",
-           "notes": "<?php print $row['notes'];?>",
+           "owner" : <?php print json_encode($row['owner']);?>,
+           "ssid": <?php print json_encode($row['ssid']);?>,
+           "passphrase": <?php print json_encode($row['passphrase']);?>,
+           "notes": <?php print json_encode($row['notes']);?>,
            "category" : "guest"
          }
     }<?php print ($row_count >1) ? ',' : ''; ?> 
