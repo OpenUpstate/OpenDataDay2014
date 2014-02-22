@@ -1,4 +1,6 @@
 <?php
+  // kudos to http://stackoverflow.com/a/18106727/1778785 for snippet of PHP to read Google spreadsheet as CSV
+  // http://stackoverflow.com/a/18106727/1778785
 $spreadsheet_url="https://docs.google.com/spreadsheet/pub?key=0AtrJrDy31bXbdEg3N1R6Q3d6XzVKVVdXenh1a1hzNFE&single=true&gid=0&output=csv";
 $row_count = 0;
 
