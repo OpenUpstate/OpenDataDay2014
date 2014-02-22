@@ -26,7 +26,7 @@ data is welcome!
 
 ## License & Copyright
 
-All code will be licensed under the Apache License 2.0 or MIT.
+All code will be licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 Check the Datasets page on the wiki for their respective licenses...we'll use [open ones](http://opendefinition.org/) of course.
 
