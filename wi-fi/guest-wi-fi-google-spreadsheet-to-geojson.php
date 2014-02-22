@@ -14,7 +14,7 @@ if (($handle = fopen($spreadsheet_url, "r")) !== FALSE) {
     if ( $row_count > 0 ) {
       // store each row in an associative array
       $spreadsheet_data[]= array(
-	    'owner' => $data[0],
+        'owner' => $data[0],
         'ssid' => $data[1],
         'passphrase' => $data[2],
         'notes' => $data[3],
@@ -37,6 +37,7 @@ else {
 header('Cache-Control: no-cache, must-revalidate');
 header('Expires: Mon, 26 Jul 1997 05:00:00 GMT');
 header('Content-type: application/json; charset=utf-8');
+header("Access-Control-Allow-Origin: *");
 
 ?>
 { "type": "FeatureCollection",
@@ -48,10 +49,10 @@ header('Content-type: application/json; charset=utf-8');
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [<?php print $row['latitude'];?>, <?php print $row['longitude'];?>]},
         "properties": {
-           "owner" : "<?php print $row['owner'];?>",
-           "ssid": "<?php print $row['ssid'];?>",
-           "passphrase": "<?php print $row['passphrase'];?>",
-           "notes": "<?php print $row['notes'];?>",
+           "owner" : <?php print json_encode($row['owner']);?>,
+           "ssid": <?php print json_encode($row['ssid']);?>,
+           "passphrase": <?php print json_encode($row['passphrase']);?>,
+           "notes": <?php print json_encode($row['notes']);?>,
            "category" : "guest"
          }
     }<?php print ($row_count >1) ? ',' : ''; ?> 
