@@ -1,0 +1,2158 @@
+{
+    "dapper": {
+        "status": "OK",
+        "dappName": "LowcountryTrails",
+        "applyToUrl": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/LOWCOUNTRY.html#Charleston%20County",
+        "executionTime": "0.427",
+        "ranAt": "2014-02-22 22:29:14 UTC",
+        "inputVars": ""
+    },
+    "groups": {
+        "County_Trails": [
+            {
+                "County_Name": [
+                    {
+                        "value": "Allendale County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Bamberg County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Rivers Bridge State Historic Site",
+                        "originalElement": "span",
+                        "fieldName": "Area"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Lupine Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/BattlefieldRiversBridge.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(0.5 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Barnwell County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Barnwell State Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Dogwood Interpretive",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/DogwoodInterp.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Ditch Pond Heritage Preserve",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/DitchPondHP.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(1.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(4.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Beaufort County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "ACE Basin National Wildlife Refuge, Combahee Unit Trail",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/CombaheeUnit.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Audubon Newhall Preserve",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/AudubonNewhall.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Green's Shell Enclosure Heritage Preserve",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/GreensShellEncHP.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Campground Access",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/CampgroundAccess.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Island",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking_Mtn%20biking/Island.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Lighthouse",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/Lighthouse.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Marsh Boardwalk NRT",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/NRT/MarshBoardwalk.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Island Pathways",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/IslandPathways.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Penn Center Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/PennCenter.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Pinckney Island Main",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/hiking_mtn%20biking/PinckneyIs.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Sea Pines Plantation",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/SeaPinesPreserve.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Victoria Bluff Heritage Preserve",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/VictoriaBluffHP.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(3.0 miles)",
+                        "originalElement": "font",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.1 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.0 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(8 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(.3 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.4 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(Approximately 50.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.0 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(3.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(8.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(4.0 miles)",
+                        "originalElement": "font",
+                        "fieldName": "Length"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Hunting Island State Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Pinckney Island National Wildlife Refuge",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Berkeley County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Cypress Gardens",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Francis Marion National Forest",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Hampton Plantation State Historic Site",
+                        "originalElement": "span",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Old Santee Canal Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/CypressGardens.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "North Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/CypressGardens.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Perimeter",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/CypressGardens.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Battery Warren",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/BatteryWarren.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Jericho Horse",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/Jericho.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Tuxbury Horse",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/Tuxbury.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Wambaw Cycle",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/MC_ATV/Wambaw%20mc.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Hampton Plantation Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/HamptonPlntNature.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Hanahan City Park",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/HanahanCityPark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Swamp Fox Passage of the Palmetto Trail",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Palmetto%20Trail/SwampFoxPassage.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Lake Moultrie Passage of the Palmetto Trail",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Palmetto%20Trail/LakeMoltPassage.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Canal Walk",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/CanalWalk.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Old Santee Canal Hiking",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/OldSanteeHiking.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Westview",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/Westview.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(0.7 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.7 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.0 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.5 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(19.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(14.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(40.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(3.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(.66 mile paved)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(42 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(26 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.8 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.0 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.2 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Calhoun County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Congaree Bluffs Heritage Preserve",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/CongareeBluffsHP.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(3.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Charleston County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Awendaw Passage of Palmetto Trail",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Palmetto%20Trail/AwendawPassage.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Bull Island NRT",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/NRT/Bull%20Is.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Sheephead Ridge",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/NRT/Bull%20Is.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Old Fort Loop",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/NRT/Bull%20Is.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Caper's Island Heritage Preserve (5.0 miles)",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/CapersIslandHP.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Caw Caw Interpretive Center Trails (5.0 miles)",
+                        "originalElement": "p",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Caw Caw Interpretive Center Trails",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/CawCaw.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Charles Pinckney Walking",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/CharlesPinckneySite.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "West Ashley Bikeway",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Railtrails/WestAshBikeway.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "West Ashley Greenway",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Railtrails/WestAshGreenway.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Animal Forest",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/CharlesTowneLanding.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Historic",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/CharlesTowneLanding.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Dungannon Heritage Preserve",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/DungannonHP.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Fort Lamar Heritage Preserve",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/FortLamarHP.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "I'on Swamp",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/IonSwamp.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Sewee Shell Mound",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/SeweeShell.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Sewee Visitor Center",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/SeweeVisCntr.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "I'on Village Walk",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/I&apos;onVillage.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Blue Loop",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/JamesIsland.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Green Loop",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/JamesIsland.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Orange Loop",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/JamesIsland.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Red Loop",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/JamesIsland.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Yellow Loop",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/JamesIsland.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Nature Walk and Bike",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/MagnoliaPlantationl.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Magnolia Wildlife",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/MagnoliaPlantationl.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Rice Field/Marsh",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/EdistoUnit.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Nature Island",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/PalmettoIsCoPark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Paved Bicycle",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/PalmettoIsCoPark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Needlerush Parkway Bike",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/PalmettoIsCoPark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Patriot's Point",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/PatriotsPoint.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Bike/Hike",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking_Mtn%20biking/BikeHike.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Marshland",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking_Mtn%20biking/Marshland.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Woodland",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/Woodland.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "South Tibwin",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking_Mtn%20biking/SouthTibwin.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Leisure",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/LeisureWannamaker.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Wooded Upland",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/EdistoUnit.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Swamp Fox Passage of the Palmetto Trail",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Palmetto%20Trail/SwampFoxPassage.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(7.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(3.7 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(6.6 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(5.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.5 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(10.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.0 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.6 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(9.0 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "( 0.2 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.0 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(5.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.2 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.0 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.8 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(5.4 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.8 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.2 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.2 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.2 miles paved)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.8 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(7.2 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.9 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.1 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(5.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(3.8 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(42 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Cape Romain National Wildlife Refuge",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Charles Pinckney National Historic Site",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Charleston",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Charles Towne Landing State Historic Site",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Francis Marion National Forest",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "James Island County Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Magnolia Plantation and Its Gardens",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Palmetto Island County Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Santee Coastal Reserve",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Wannamaker County Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Francis Marion National Forest",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Clarendon County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Lake Marion Passage of the Palmetto Trail",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Palmetto%20Trail/LakeMarionPassage.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Wright's Bluff Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/WrightsBluff.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Cuddo Unit Bike",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking_Mtn%20biking/CuddoBike.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Cuddo Unit Walking",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/CuddoWalking.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Mill Pond Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/MillpondNature.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(25 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.0 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(8.7 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(3.7 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.9 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Santee National Wildlife Refuge",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Santee National Wildlife Refuge - Cuddo Unit",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Woods Bay Natural Area",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Colleton County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Colleton State Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Colleton State Park",
+                        "originalElement": "span",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Donnelley Wildlife Management",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Donnelley Wildlife Management",
+                        "originalElement": "span",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Walterboro",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Walterboro",
+                        "originalElement": "span",
+                        "fieldName": "Area"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Cypress Swamp Nature Trail",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/CypressSwampNature.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Edisto Beach State Park",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/EdistoBeachSP.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Edisto Nature NRT",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/NRT/EdistoNature.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Backwater",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking_Mtn%20biking/Backwater.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Boynton",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking_Mtn%20biking/Boynton.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Colleton",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/Colleton.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(0.5 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(4.0 miles of trails)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(3.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.6 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Darlington County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Kalmia Gardens",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/KalmiaGardens.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Sawyer Bike/Hike",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/SawyerBike.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Williamson Park",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/WilliamsonPark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(1.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.2 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.4 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Dillon County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Little Pee Dee State Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Beaver Pond Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/BeaverPondNature.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(1.3 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Dorchester County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Francis Beidler Swamp NRT",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/nrt/FrancisBeidler.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Old Loop",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/OldLoop.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "River Bluff",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/RiverBluff.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Sawmill Branch Bike/Hike",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/SawmillBranch.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(1.6 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(5.4 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(6.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Givhans Ferry State Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Summerville",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Florence County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Florence Rail",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Railtrails/FlorenceRail.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Freedom Florence Complex",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/FreedomFlorence.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Jeffries Creek Park",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/JefferiesCreek.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Lucas Park",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/LucasPark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "StageCoach/Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/Stagecoach.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Pool Connector",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/LynchesRiverCountyPark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Sand Ridge",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/LynchesRiverCountyPark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Riverwalk",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/LynchesRiverCountyPark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "McLeod Fitness Center",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/McLeodFitnessCenter.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Spaulding Heights",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/SpauldingHeights.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Stagecoach",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/LynchesRiverPk.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Timrod Park",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/TimrodPark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Wallace Woods Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/WallaceWoods.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(2 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.2 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.5 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.6 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.3 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.0 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.8 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.2 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.6 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.3 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.3 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.33 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Lynches River County Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Georgetown County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Huntington Beach State Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Sandy Island Preserve",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Sandy Island Preserve",
+                        "originalElement": "span",
+                        "fieldName": "Area"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Boardwalk",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/Boardwalk.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Kerrigan Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/KerriganNature.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Sandpiper Pond Nature Trail",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/Sandpiper.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Little Bull Creek",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/LittleBullCreek.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Red-cockaded Woodpecker",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/RedCockdWoodpecker.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(0.1 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.3 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(4.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Hampton County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Lake Warren State Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Webb Wildlife Management Area",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Nature/Interpretive",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/NatureInterpretive.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Yemassee Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/Yemassee.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Savannah River Swamp",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/SavanaRvrSwamp.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(1.0 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.3 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.0 miles)",
+                        "originalElement": "font",
+                        "fieldName": "Length"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Horry County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Cartwheel Bay Heritage Preserve",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/CartwheelBayHP.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Grissom Parkway/Harrelson Blvd. (7.2 miles)",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/Grissom-Harrelson.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Loris Passive Park",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/LorisPassivePark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Sculptured Oak Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/MyrtleBeachSP.htm",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Yaupon",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/MyrtleBeachSP.htm",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(3.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.0 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.5 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.4 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Myrtle Beach State Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Jasper County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Ridgeland",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Savannah National Wildlife Refuge",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Blue Heron Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/BlueHeron.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Tupelo",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/Tupelo.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(0.5 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Lee County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Lake Ashwood",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/LakeAshwood.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Floodplain",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/LeeStateNatlArea.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Sandhills",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/LeeStateNatlArea.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(2.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.3 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.5 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Lee State Natural Area",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Marion County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Fitness Loop",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/MarionHikingBiking.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Marion Bike/Hike",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Multi-use/MarionHikingBiking.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(0.2 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.6 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Marlboro County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Camp Pee Dee",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Lake Wallace Walking",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/LakeWallace.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(2.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Orangeburg County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Edisto Gardens Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/EdistoGardens.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Eutaw Springs Passage of the Palmetto Trail",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Palmetto%20Trail/EutawSpringsPassage.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Bike/Hiking",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/hiking_mtn%20biking/BikeHiking.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Limestone Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/Limestone.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Oak Pinolly Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/OakPinolly.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Sinkhole Pond Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/SinkholePond.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Santee Cooper WMA Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/SanteeCooperWMA.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Santee Passage of the Palmetto Trail",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Palmetto%20Trail/SanteePassage.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(1.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(18 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(7.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.0 miles)",
+                        "originalElement": "font",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.0 mile)",
+                        "originalElement": "font",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.5 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.4 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(11 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Santee State Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Sumter County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Trail": [
+                    {
+                        "value": "Cherryvale Community Center",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/CherryvaleCommunityCntr.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Cypress Trail",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking_Mtn%20biking/Cypress.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Dillon Park Fitness",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Fitness/DillonPark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Rermbert-Rafting Creek Community Center",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/RembertRaftingCreekCC.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "High Hills of Santee Passage of the Palmetto Trail",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Palmetto%20Trail/HighHillsSanteePassage.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Live Oak  Park",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/LiveOakCommunityPark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Campbell Pond",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/MountainBike/ManchesterForest.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Hardcore",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/MountainBike/ManchesterForest.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Killer 3 Loop",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/MountainBike/ManchesterForest.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Poinsett Connector",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/MountainBike/ManchesterForest.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Coquina Nature",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/Coquina.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Hilltop",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/Hilltop.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Laurel Group",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/LaurelGroup.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Scout",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/Scout.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Swan Lake Garden",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Interpretive/SwanLakeGarden.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Vim Community Park",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/VimCommunityPark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Wateree Passage",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Palmetto%20Trail/WatereePassage.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    },
+                    {
+                        "value": "Wedgefield Park",
+                        "href": "http://sctrails.net/Trails/ALLTRAILS/Hiking/Lowcountry/WedgefieldPark.html",
+                        "originalElement": "a",
+                        "fieldName": "Trail"
+                    }
+                ],
+                "Length": [
+                    {
+                        "value": "(0.15 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(6.3 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.3 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.12 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(14 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.1 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.6 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(10.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.5 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.5 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.5 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(2.0 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(1.3 miles",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.1 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(7.2 miles)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    },
+                    {
+                        "value": "(0.25 mile)",
+                        "originalElement": "span",
+                        "fieldName": "Length"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Manchester State Forest",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    },
+                    {
+                        "value": "Poinsett State Park",
+                        "originalElement": "font",
+                        "fieldName": "Area"
+                    }
+                ]
+            },
+            {
+                "County_Name": [
+                    {
+                        "value": "Williamsburg County",
+                        "originalElement": "a",
+                        "fieldName": "County Name"
+                    }
+                ],
+                "Area": [
+                    {
+                        "value": "Updated: October 30",
+                        "originalElement": "span",
+                        "fieldName": "Area"
+                    }
+                ]
+            }
+        ]
+    }
+}
