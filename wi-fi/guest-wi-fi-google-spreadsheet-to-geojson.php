@@ -46,8 +46,10 @@ header('Content-type: application/json; charset=utf-8');
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [<?php print $row['latitude'];?>, <?php print $row['longitude'];?>]},
         "properties": {
-           "notes": "<?php print $row['notes'];?>",
            "owner" : "<?php print $row['owner'];?>",
+           "ssid": "<?php print $row['ssid'];?>",
+           "passphrase": "<?php print $row['passphrase'];?>",
+           "notes": "<?php print $row['notes'];?>",
            "category" : "guest"
          }
     }<?php print ($row_count >1) ? ',' : ''; ?> 
