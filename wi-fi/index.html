@@ -1,10 +1,10 @@
 <html>
 <head>
   <title>Greenville Guest Wi-Fi Map</title>
-  <meta name="description" content="A map of guest wi-fi in Greenville, SC. Support these places."/>
+  <meta name="description" content="A map of guest wi-fi in Greenville, SC. Buy a sandwich, use the Wi-Fi, support these places."/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
-  <link rel="stylesheet" href="map.css" />
+  <link rel="stylesheet" href="./map.css" />
   <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
 </head>
 <body>
@@ -17,7 +17,6 @@
     function onEachFeature(feature, layer) {
       // does this feature have a property named popupContent?
       if (feature.properties && feature.properties.ssid) {
-
       	var popuphtml = "<strong>" + feature.properties.owner + "</strong><ul><li>Network Name: " + feature.properties.ssid + "</li><li>Passphrase: " + feature.properties.passphrase + "</li><li>Notes: " + feature.properties.notes + "</li></ul>";
         layer.bindPopup(popuphtml);
       }
