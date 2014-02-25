@@ -1,0 +1,1284 @@
+{
+  "docs": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Anderson",
+        "link": "../../Multi-use/FantsGrove.html",
+        "name": "Fants Grove",
+        "mileage": "35.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "Lake Hartwell",
+        "county": "Anderson",
+        "link": "HartwellDam.html",
+        "name": "Hartwell Lake Dam",
+        "mileage": "0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Anderson",
+        "link": "../../MountainBike/BikeTrail.html",
+        "name": "Bike",
+        "mileage": "3.9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Anderson",
+        "link": "PineGrove.html",
+        "name": "Pine Grove",
+        "mileage": "0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Cherokee",
+        "link": "../../Interpretive/BattlefieldCowpens.html",
+        "name": "Cowpens National Battlefield",
+        "mileage": "1.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Cherokee",
+        "link": "CowpensNature.html",
+        "name": "Cowpens Nature",
+        "mileage": "1.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "Asbury Hills Camp",
+        "county": "Greenville",
+        "link": "Asbury.html",
+        "name": "Asbury Trail Moonshine Falls BlueGold",
+        "mileage": "Moonshine Falls)\n          (1.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Greenville",
+        "link": "ChestnutRidge.html",
+        "name": "Chestnut Ridge Heritage Preserve",
+        "mileage": "2.75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Greenville",
+        "link": "../../Fitness/ClevelandPark.html",
+        "name": "Cleveland Park",
+        "mileage": "3.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Greenville",
+        "link": "ConesteeNaturePark.html",
+        "name": "Conestee Nature Park",
+        "mileage": "3.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Greenville",
+        "link": "EvaRussellChandlerHP.html",
+        "name": "Eva Russell Chandler ",
+        "mileage": "0.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Greenville",
+        "link": "../../Interpretive/FernwoodNature.html",
+        "name": "Fernwood Nature",
+        "mileage": "0.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Greenville",
+        "link": "MauldinPark.html",
+        "name": "Mauldin Park ",
+        "mileage": "0.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "Mountain Bridge Wilderness Area Caesars Head and Jones Gap State Parks ",
+        "county": "Greenville",
+        "link": "6and20Connector.html",
+        "name": "6 20 Connector 22Bill Kimball 5Cleveland Connector 32Coldspring Branch 3Coldspring Connector 7",
+        "mileage": "0.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "Mountain Bridge Wilderness Area Caesars Head and Jones Gap State Parks ",
+        "county": "Greenville",
+        "link": "Dismal.html",
+        "name": "Dismal 12Falls Creek 31 Falls Creek Falls Frank Coggins 15Gum Gap 13Hospital Rock 30John Sloan 21Jones Gap NRT 1 Jones Gap Falls Naturaland Trust 14Pinnacle Pass 20Rainbow FallsRaven Cliff Falls 11Rim of the Gap 6Tom Miller 2Wildcat Nature",
+        "mileage": "1.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "Paris Mountain State Park",
+        "county": "Greenville",
+        "link": "../../Hiking_Mtn%20biking/BrissyRidge.html",
+        "name": "Brissy RidgeFiretowerKanugaLake PlacidMountain Creek North LakePipsissewaSulphur Springs LoopTurtle",
+        "mileage": "2.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Greenville",
+        "link": "PleasantRidge.html",
+        "name": " Pleasant Ridge Nature",
+        "mileage": "0.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Greenville",
+        "link": "../../Palmetto%20Trail/PoinsettReservoirPassage.html",
+        "name": "Poinsett Reservoir Passage of the Palmetto Trail",
+        "mileage": "6.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Greenville",
+        "link": "ReedyRiverFalls.html",
+        "name": "Reedy River Falls",
+        "mileage": "0.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Greenville",
+        "link": "SimpsonvilleNature.html",
+        "name": "Simpsonville Nature",
+        "mileage": "0.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Greenville",
+        "link": "../../MountainBike/TimmonsPark.html",
+        "name": "Timmons Park Mtn Bike",
+        "mileage": "1.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": " Andrew Pickens Ranger District",
+        "county": "Oconee",
+        "link": "BigBend.html",
+        "name": "Big BendBig Bend FallsKing Creek FallsBull SluiceChattoogaEarls FordEast ForkFall Creek FallsFork MountainLee FallsOpossum Creek FallsRiley Moore FallslSandy FordSpoonauger FallsStation Cove FallsThrift s FerryWinding StairsMiuka FallsSecret FallsWoodall ShoalsYellow Branch Falls Yellow Branch Nature ",
+        "mileage": "Big Bend\n              Falls)  (King Creek Falls) (2.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "Bad Creek Hydroelectric Station",
+        "county": "Oconee",
+        "link": "BadCreek%20Spur.html",
+        "name": "Bad Creek SpurCoon Branch Natural AreaLower Whitewater Falls",
+        "mileage": "0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "../../Waterfalls/Beecove.html",
+        "name": "Bee Cove Falls",
+        "mileage": "2.1\n             "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "../../Waterfalls/Bluehole.html",
+        "name": "Blue Hole Falls",
+        "mileage": ".5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "../../Railtrails/BlueRidgeHist.html",
+        "name": "Blue Ridge Historic Rail",
+        "mileage": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "../../Waterfalls/Brasstown.html",
+        "name": "Brasstown Falls",
+        "mileage": ".25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "../../Fitness/ShaverComplex.html",
+        "name": "Bruce Hill Shaver ",
+        "mileage": "0.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "../../Waterfalls/ChaugaNarrows.html",
+        "name": "Chauga Narrows",
+        "mileage": ".6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "ChauRamCoPark.html",
+        "name": "Chau Ram County Park ",
+        "mileage": "4.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": " Devils Fork State Park",
+        "county": "Oconee",
+        "link": "BearCove.html",
+        "name": "Bear CoveOconee Bells Nature",
+        "mileage": "3.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "../../NRT/Foothills.html",
+        "name": "Foothills Trail",
+        "mileage": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "../../Interpretive/KeoweeWalking.html",
+        "name": "Keowee Walking ",
+        "mileage": "0.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": " Hartwell Lake",
+        "county": "Oconee",
+        "link": "Choestoea.html",
+        "name": "Choestoea",
+        "mileage": "0.8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "Beech%20Bluff.html",
+        "name": "Beech Bluff ",
+        "mileage": "0.7\n             "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "../../Waterfalls/Licklogpigpen.html",
+        "name": "Licklog Pigpen Falls",
+        "mileage": ".9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "../../Waterfalls/Longcreek.html",
+        "name": "Long Creek Falls",
+        "mileage": "1.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "../../Waterfalls/Lowerwhitewater.html",
+        "name": " Lower Whitewater Falls",
+        "mileage": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "MountainRest.html",
+        "name": "Mountain Rest Community",
+        "mileage": "0.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Oconee",
+        "link": "../../Palmetto%20Trail/OconeeConnector.html",
+        "name": "Oconee Connector of the Palmetto Trail",
+        "mileage": "3.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "Oconee State Park",
+        "county": "Oconee",
+        "link": "../../NRT/Foothills.html",
+        "name": "Foothills AccessHidden FallsLakeOconeeOconee Connector of the Palmetto TrailTamassee KnobOld Water Wheel",
+        "mileage": "1.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "Stumphouse Tunnel Picnic Area",
+        "county": "Oconee",
+        "link": "../../Waterfalls/Issaqueena.html",
+        "name": "Issaqueena Falls",
+        "mileage": "0.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "Stumphouse Tunnel Picnic Area",
+        "county": "Oconee",
+        "link": "WestminsterWalking.html",
+        "name": "Westminster Elementary Walking",
+        "mileage": "0.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Pickens",
+        "link": "../../Palmetto%20Trail/BlueridgeElectricCoOpPassage.html",
+        "name": " Blueridge Electric CoOp Passage of the Palmetto Trail",
+        "mileage": "12.5\n           "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Pickens",
+        "link": "../../Multi-use/Dalton%20Road%20Ride.html",
+        "name": "Dalton RoadFigure Eight at Holly SpringsIssaqueena Lake",
+        "mileage": "5.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Pickens",
+        "link": "../../Multi-use/FantsGrove.html",
+        "name": "Fants Grove LakeJohnstone FoxLawrence QuarrySwine Farm",
+        "mileage": "4.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Pickens",
+        "link": "EastatoeHP.html",
+        "name": "Eastatoe Creek Heritage Preserve",
+        "mileage": "1.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Pickens",
+        "link": "../../NRT/Foothills.html",
+        "name": "Foothills Trail",
+        "mileage": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Pickens",
+        "link": "GlassyMountainHP.html",
+        "name": "Glassy Mountain ",
+        "mileage": "1.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Pickens",
+        "link": "../../Waterfalls/Laurelfork.html",
+        "name": "Laurel Fork Falls",
+        "mileage": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Pickens",
+        "link": "OldMillRace.html",
+        "name": "Old Mill Race",
+        "mileage": "0.6\n         "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "Table Rock State Park",
+        "county": "Pickens",
+        "link": "CarrickCreek.html",
+        "name": "Carrick CreekMill Creek PassPinnacle MountainRidgeTable Rock NRT",
+        "mileage": "1.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Pickens",
+        "link": "../../Multi-use/TownCreekPark.html",
+        "name": "Town Creek Park",
+        "mileage": "2.0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Pickens",
+        "link": "../../Waterfalls/Twinfalls.html",
+        "name": "Twin Falls",
+        "mileage": ".25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Spartanburg",
+        "link": "../../Palmetto%20Trail/BlueWallPassage.html",
+        "name": "Blue Wall Passage of the Palmetto",
+        "mileage": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Spartanburg",
+        "link": "ClevelandParkSpar.html",
+        "name": "Cleveland Park ",
+        "mileage": "1.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Spartanburg",
+        "link": "EdwinGriffinPreserve.html",
+        "name": "Cottonwood",
+        "mileage": "3.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "Croft State Natural Area",
+        "county": "Spartanburg",
+        "link": "../../MountainBike/CroftMtBike.html",
+        "name": " Croft Mt BikeHorace CraigNature Trail",
+        "mileage": "10.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "Croft State Natural Area",
+        "county": "Spartanburg",
+        "link": "../../Palmetto%20Trail/CroftPassage.html",
+        "name": "Croft Passage of the Palmetto Trail",
+        "mileage": "12.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Spartanburg",
+        "link": "PacoletRiverHP.html",
+        "name": "Pacolet River Heritage Preserve",
+        "mileage": "2.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Spartanburg",
+        "link": "PetersCreekHP.html",
+        "name": "Peter s Creek",
+        "mileage": "3.5\n           "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Spartanburg",
+        "link": "RiverBirch.html",
+        "name": "River Birch ",
+        "mileage": "0.4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Spartanburg",
+        "link": "../../Palmetto%20Trail/USCSpartanburgPassage.html",
+        "name": "USC Spartanburg Passage of the Palmetto Trail",
+        "mileage": "1.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6,
+          30.1
+        ]
+      },
+      "properties": {
+        "type": "trails",
+        "activity": "hiking",
+        "region": "The Upcountry",
+        "area": "",
+        "county": "Spartanburg",
+        "link": "Chinquapin.html",
+        "name": "Upper Chinquapin Greenway",
+        "mileage": "1.6"
+      }
+    }
+  ]
+}
